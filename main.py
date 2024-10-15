@@ -1,5 +1,6 @@
 def print_hi(name):
     print(f'Hi, your name is: {name}')
+    print('have a nice day!')
 
 
 if __name__ == '__main__':
